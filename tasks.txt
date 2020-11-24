@@ -1,0 +1,4 @@
+Martin, Work Python, Working till late, 1 Aug 2020, 10 Nov 2020, No
+Siya, Moving Java files, Moving the files with John, 30 May 2020, 02 Nov 2020, No
+admin, Do admin for members, admin work, 30 May 2020, 7 Nov 2020, Yes
+admin, Working in a team, Doing a Python file, 03 Jun 2020, 5 Nov 2020, No
