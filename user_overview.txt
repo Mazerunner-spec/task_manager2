@@ -1,0 +1,44 @@
+Total number of users registered with Task Manager: 7
+Total number of tasks generated using Task Manager: 3
+
+Total tasks assigned to user "admin": 1
+Percentage of total number of tasks assigned to user "admin": 33.33%
+Percentage of tasks assigned to user "admin" completed: 100.00%
+Percentage of tasks assigned to user "admin" not completed: 0.00%
+Percentage of tasks assigned to user "admin" not completed and are overdue: 0.00%
+
+Total tasks assigned to user "John": 0
+Percentage of total number of tasks assigned to user "John": 0.00%
+Percentage of tasks assigned to user "John" completed: 0.00%
+Percentage of tasks assigned to user "John" not completed: 0.00%
+Percentage of tasks assigned to user "John" not completed and are overdue: 0.00%
+
+Total tasks assigned to user "Karl": 0
+Percentage of total number of tasks assigned to user "Karl": 0.00%
+Percentage of tasks assigned to user "Karl" completed: 0.00%
+Percentage of tasks assigned to user "Karl" not completed: 0.00%
+Percentage of tasks assigned to user "Karl" not completed and are overdue: 0.00%
+
+Total tasks assigned to user "adman": 0
+Percentage of total number of tasks assigned to user "adman": 0.00%
+Percentage of tasks assigned to user "adman" completed: 0.00%
+Percentage of tasks assigned to user "adman" not completed: 0.00%
+Percentage of tasks assigned to user "adman" not completed and are overdue: 0.00%
+
+Total tasks assigned to user "Siya": 1
+Percentage of total number of tasks assigned to user "Siya": 33.33%
+Percentage of tasks assigned to user "Siya" completed: 0.00%
+Percentage of tasks assigned to user "Siya" not completed: 100.00%
+Percentage of tasks assigned to user "Siya" not completed and are overdue: 0.00%
+
+Total tasks assigned to user "Martin": 1
+Percentage of total number of tasks assigned to user "Martin": 33.33%
+Percentage of tasks assigned to user "Martin" completed: 0.00%
+Percentage of tasks assigned to user "Martin" not completed: 100.00%
+Percentage of tasks assigned to user "Martin" not completed and are overdue: 0.00%
+
+Total tasks assigned to user "Craig": 0
+Percentage of total number of tasks assigned to user "Craig": 0.00%
+Percentage of tasks assigned to user "Craig" completed: 0.00%
+Percentage of tasks assigned to user "Craig" not completed: 0.00%
+Percentage of tasks assigned to user "Craig" not completed and are overdue: 0.00%
